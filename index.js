@@ -1,6 +1,6 @@
 
-let urls = ["","https://artemslynchuk.github.io/Japan/","https://kosteckii2009.github.io/Thailand/",
-    "","https://polytifox.github.io/South-Korea/index.html","",
+let urls = ["https://linoy17.github.io/Chine/","https://artemslynchuk.github.io/Japan/","https://kosteckii2009.github.io/Thailand/",
+    "https://stasskor.github.io/german/","https://polytifox.github.io/South-Korea/index.html","https://petromord.github.io/Ukrein/",
     "https://saveliybr.github.io/Itali/index.html"
 ]
   let pointers = document.querySelectorAll(".point")
